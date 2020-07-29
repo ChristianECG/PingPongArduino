@@ -8,6 +8,8 @@ Juego del Ping Pong con Arduino y pantalla Adafruit
 [![GitHub followers](https://img.shields.io/github/followers/ChristianECG?label=Follow)](https://github.com/ChristianECG)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ChristianECG_?label=Follow)](https://twitter.com/ChristianECG_)
 
+<img src='http://christianecg.com/wp-content/uploads/2020/06/20200611_163759_HDR-1024x768.jpg' width=50%>
+
 ## Comenzando :rocket:
 
 Para poder replicar este proyecto necesitarás:
