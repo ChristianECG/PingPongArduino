@@ -1,6 +1,3 @@
-# PingPongArduino
-Juego del Ping Pong con Arduino y pantalla Adafruit
-
 # Ping Pong Arduino
 <p align=justify>Juego del Ping Pong con Arduino, y el uso de una pantalla Adafruit. El proyecto original fue construido en 2018, y se ha adaptado para ser funcional y eficiente.</p>
 
